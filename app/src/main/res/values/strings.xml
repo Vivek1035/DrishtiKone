@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DrishtiKone</string>
+    <string name="welcome_text">Welcome to DrishtiKone</string>
+    <string name="subtitle_text">Vision Assistance App</string>
+    <string name="text_recognition">Text Recognition</string>
+    <string name="object_recognition">Object Recognition</string>
+    <string name="instruction_text">Tap on any feature to start. Double tap to activate.</string>
+    <string name="back">Back</string>
+    <string name="detected_objects">Detected objects will appear here</string>
+    <string name="detected_text">Detected text will appear here</string>
+</resources>
